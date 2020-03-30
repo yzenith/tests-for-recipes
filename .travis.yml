@@ -1,1 +1,8 @@
 language: node_js
+deploy:
+  provider: heroku
+  api_key:
+    secure: JH/3LVUV7pQbgQHvXH22PftapwpAH4hyiWnUmRT9MBt0ajA+vBEhpBHacbQQF2H4Qqwxh5E/9F/btkehBM0xmullD3b2MUW7KIbqp2eSfuMiZRPU/3mQNCeQtvA1UAkwIPl6sIFqNkBLWHK2+5/12hjTrC2slx8Ukp95WY4h1uZmC0ECiNCHjOXxxq6ayMhUZGWO/XUpo7CAjLrrLiORfJ+UFH/3iZ7kVDaF4rIIxhW8rh5tUMdnAap07YCFiZL7IGH03j2LVH4+nskWxziUOB3qLm75AIx56YtAWmIuula4x2Yz+W8X7EQvrnpG1WWFt08O97nnOTKMvgoO1A62RoTgWvlOzTxpWGeIo1TwkADl6dCLvl8iaZvzFa9lwMCxStmPlot7aGnbheWv1Q/b3fddyvm2y7jVSL7NoOmF2j4KasYCMsGR+cK1rruWa6W9NbdC8dxTQOdnOksgW+N+Qg3UVFjzYMuk289tPhFWH+UYc2zn1DAUvlGONZ9nDgxFNQGFlNZeufXwjYXtTxwM0K++rT/j77jTdCf1A73G64+Eyh+0LLRXzZLBi4v2MqkRxAstLGNnURWICBV3rTfFo0IwJkbiaOMYbkqYB77apo8ToqZa8n6aQRYwN2lrpw/TQP2/vJ0oevqDzVWWlS7j8KuOijsFVDMi4miDOo1v+Ts=
+  app: https://enigmatic-scrubland-52817.herokuapp.com
+  on:
+    repo: yzenith/tests-for-recipes
