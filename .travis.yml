@@ -5,6 +5,6 @@ deploy:
   provider: heroku
   api_key:
     secure: i6RaPXsiMyon3Sf7ZomLTI5rOvztYnvpRLJcahQRCiTZ5DQTPYXjB5eELS+zhjBeEnnwa2y4NefLnh4ibc/FX7ykgfxEx16vgPg/+w/yp016ykE83cPdFKPJYx//y6gaHwvTc/3i4Rs97umaTzbqUeYkCt+UKkAnS5PP/kJqMh4aX7Tnb78vEUgf15dvh44weayaLMRSVDgi3+4eRI76rWMbn1kXXZ8FQeLWZqUpeZRQrRoDuPAYMJcR0oJipIgFs/oGi3xmYcPiebgEDKyhkpv1X2l/K95GKFGS+BjRwFpIRzjmyZhyfLloX37vO7F4DU859kDIGR+FjuDrEoS3FDGgrHPtd5DWwCDkLcEO1iAL7eogLKpQYiX9k9ioi4qfACmGmbrtpaWriCrlfIlZjsTVrQ5o1iPmmlo7JkIe8qONZmGccDMd239VRJOkAvEoAyE79T5G19xEAuRIGPjD3BtzoryWdgfeWDAGlDCRkq7TnKfUdVog0RN+VZtt8bt2M6+DolLNJ6FYwWMVx2pvN+aqWjyYxW6sx56L2OpmHt9N6E18YOWOjoVo7O4F3Voilvad3B2kxcHlmdF8utifluFMRJms6FR2W/ZPHrALKBQzbqLkq7KeEdQPttynX1yVHDykGECvFM/NJU3RLygQZuDa//tgEVW1zbY6N0RUjzE=
-  app: https://enigmatic-scrubland-52817.herokuapp.com
+  app: enigmatic-scrubland-52817
   on:
     repo: yzenith/tests-for-recipes
